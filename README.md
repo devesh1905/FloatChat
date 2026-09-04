@@ -2,6 +2,9 @@
 
 FloatChat is a minimal working prototype that enables natural language querying of ARGO ocean float datasets (NetCDF format) with interactive 3D globe visualization and 2D thermocline depth profile analytics.
 
+
+<img width="1631" height="988" alt="image" src="https://github.com/user-attachments/assets/0db27724-8521-4746-bf70-f666f410ce79" />
+
 ---
 
 ## 🎯 Features & Scope
